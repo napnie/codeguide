@@ -29,7 +29,7 @@ public boolean isReal(int value) {
 as you can see, both method has the same logic but the letter method look better and cleaner and while it doesn't change a program logic, it'll be easier to modify code later should you actually need to change its logic.
 
 ### Exercise
-[BoyScoutRule_exercise](#)
+[BoyScoutRule Exercise](https://github.com/napnie/codeguide/blob/master/src/codeguide/BoyScoutRule_exercise.java)
 
 ### Reference
 [The Boy Scout Rule - Programer 97-things](http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule)
@@ -63,7 +63,7 @@ This way you won't have to solve the problem which already solved!
 This example may look like it make no difference whatsoever but in the larger and more complicated program, this principle could save you from meaninglessly tried to fix a issue which, uh, already fixed.
 
 ### Exercise
-[DoTheSimplestThingThatCouldPossiblyWork_exercise](#)
+[DTSTTCPW Exercise](https://github.com/napnie/codeguide/blob/master/src/codeguide/DoTheSimplestThingThatCouldPossiblyWork_exercise.java)
 
 ### Referance
 [Do The Simplest Thing That Could Possibly Work](http://c2.com/xp/DoTheSimplestThingThatCouldPossiblyWork.html)
