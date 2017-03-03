@@ -39,7 +39,7 @@ As you can see, both method has the same logic but the letter method look better
 
 ### Exercise
 
-[BoyScoutRule Exercise](https://github.com/napnie/codeguide/blob/master/src/codeguide/BoyScoutRule_exercise.java)
+[Boy-Scout Rule Exercise](https://github.com/napnie/codeguide/blob/master/src/codeguide/BoyScoutRule_exercise.java)
 
 ### Reference
 
@@ -73,21 +73,23 @@ if ( a >= b ) max = a;
 else max = b;
 ```
 
-It is a first thing that come to mind and it work!<br>
+It is a first thing that come to mind and it work!  
+
 however, java already had a method that solve this problem.
 
 ```
 max = Math.max(a, b);
 ```
 
-This way you won't have to solve the problem which already solved!<br>
+This way you won't have to solve the problem which already solved!  
+
 This example may look like it make no difference whatsoever but in the larger and more complicated program, this principle could save you from meaninglessly tried to fix a issue which, uh, already fixed.
 
 ### Exercise
 
 [DTSTTCPW Exercise](https://github.com/napnie/codeguide/blob/master/src/codeguide/DoTheSimplestThingThatCouldPossiblyWork_exercise.java)
 
-### Referance
+### Reference
 
 [Do The Simplest Thing That Could Possibly Work](http://c2.com/xp/DoTheSimplestThingThatCouldPossiblyWork.html)
 
